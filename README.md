@@ -5,8 +5,8 @@
 
 .
 AIFFEL_quest_rs
-+---MainQuest
-+   +---Quest01
+|---MainQuest
+|   |---Quest01
 |   |   |--- .ipynb
 |   |   |--- README.md
 .       .
