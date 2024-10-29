@@ -45,15 +45,6 @@ AIFFEL_quest_rs
 
 
 
-echo "# AIFFEL_quest_rs" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/soaring1/AIFFEL_quest_rs.git
-git push -u origin main
-
-
 git remote add origin https://github.com/soaring1/AIFFEL_quest_rs.git
 git branch -M main
 git push -u origin main
